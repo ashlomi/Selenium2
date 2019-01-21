@@ -1,0 +1,7 @@
+<Suite name="sample suite">
+<test name = "Learning Jenkins">
+<Classes>
+	<Class name-"TestPKG.ChromTest"></class>
+</classes>
+</test>
+</suite>
